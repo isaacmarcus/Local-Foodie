@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Location"
+        android:title="Add Location"
+        />
+    <!--<item android:id="@+id/Bedok85"-->
+        <!--android:checkable="true"-->
+        <!--android:title="Bedok Blk 85" />-->
+    <!--<item android:id="@+id/BedokSimpang"-->
+        <!--android:checkable="true"-->
+        <!--android:title="Bedok Simpang" />-->
+    <!--<item android:id="@+id/ChangiVillageHawkerCentre"-->
+        <!--android:checkable="true"-->
+        <!--android:title="Changi Village Hawker Centre" />-->
+    <!--<item android:id="@+id/ChinatownFoodStreet"-->
+        <!--android:checkable="true"-->
+        <!--android:title="Chinatown Food Street" />-->
+    <!--<item android:id="@+id/Chompchomp"-->
+        <!--android:checkable="true"-->
+        <!--android:title="Chomp Chomp Food Centre" />-->
+    <!--<item android:id="@+id/HongLimFoodCentre"-->
+        <!--android:checkable="true"-->
+        <!--android:title="Hong Lim Food Centre" />-->
+    <!--<item android:id="@+id/LauPaSat"-->
+        <!--android:checkable="true"-->
+        <!--android:title="Lau Pa Sat" />-->
+    <!--<item android:id="@+id/MaxwellFoodCentre"-->
+        <!--android:checkable="true"-->
+        <!--android:title="Maxwell Food Centre" />-->
+    <!--<item android:id="@+id/NewtonFoodCentre"-->
+        <!--android:checkable="true"-->
+        <!--android:title="Newton Food Centre" />-->
+    <!--<item android:id="@+id/TampinesRoundMarket"-->
+        <!--android:checkable="true"-->
+        <!--android:title="Tampines Round Market &amp; Food Centre" />-->
+
+
+</menu>

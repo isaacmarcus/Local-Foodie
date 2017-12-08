@@ -1,0 +1,91 @@
+[
+  { "location": "Bedok 85",
+    "cost": "$10",
+    "file": "bedok85",
+    "hours": "11:00am - 3:00am",
+    "information": "Ask any eastie where to have supper and the default answer will be Bedok 85 FoodCentre. Most stores are still open at 10pm, with some staying open till 3am to satiate your late night hunger pangs. Check out the Bak Chor Mee, Chai Chee Pork Porridge, and local food dishes here. \n - Weekender.com"},
+
+  { "location": "Buddha Temple",
+    "cost": "FREE",
+    "file": "buddhatemple",
+    "hours": "7:00am - 7:00pm",
+    "information": "The temple is based on the Tang dynasty architectural style and built to house the tooth relic of the historical Buddha. The ground breaking ceremony was conducted on 13 March 2005. Costing S$62 million and 2 years later, a soft launch was held to coincide with the 2007 Vesak Day celebration. It is claimed that the relic of Buddha from which it gains its name was found in 1980 in a collapsed stupa in Myanmar. The relic can be viewed by the public at the 4th floor of the temple. \n Wikipedia"},
+
+  { "location": "Changi Village",
+    "cost": "$12",
+    "file": "changivillage",
+    "hours": "6:00am - 2:00am",
+    "information": "Traffic here is quite crazy on the weekends. And there's a very good reason for it. This is a food haven in Singapore. If you'd ask me which only hawker centre to go to every week if I DON'T have a choice? This will be it.It has some of the finest stalls here, top in its category. It's located near Changi which you can take a relaxing stroll at. It's prices are very affordable. Parking is atrocious on weekends so spare a thought and visit on weekdays. \n - Yelp"},
+
+  { "location": "Chinatown Food Street",
+    "cost": "$15",
+    "file": "chinatownfoodstreet",
+    "hours": "11:00am-11:00pm",
+    "information": "As you are roaming through Chinatown you will undoubtedly come across Chinatown Food Street. It is at the intersection of a couple of walking streets so it's hard to miss. There are restaurants lining the streets and venders down the center. \n - Yelp"},
+
+  { "location": "Chomp Chomp",
+    "cost": "$15",
+    "file": "chompchomp",
+    "hours": "5:00pm - 1:00am",
+    "information": "They have the whole spread of hawker food, but those are only good supplements for the highlights of this place, which is the grilled seafood and stir fry. BBQ stingray is a must try, as well as carrot cake, satay bee hoon, grilled chicken wing and satay. The prices are slightly higher, but honestly it's very reasonable for the quality of the food. Also get a gigantic glass of sugarcane juice, add some lemons and sour plums to it if you like a sweet and sour aftertaste. \n - Yelp"},
+
+  { "location": "Singapore Flyer",
+    "cost": "$50",
+    "file": "flyer",
+    "hours": "",
+    "information": ""},
+
+  { "location": "Lau Pa Sat",
+    "cost": "$10",
+    "file": "laupasat",
+    "hours": "24 Hours",
+    "information": "When you are visiting Singapore, you MUST visit this location.  It is one of the best outdoor food court.  Almost 100 restaurants serving different foods..  During the night time, road gets closed and small cart vendors create new few court selling satays and various dishes. \n - Yelp "},
+
+  { "location": "Maxwell Food Centre",
+    "cost": "$12",
+    "file": "maxwell",
+    "hours": "8:00am - 10:00pm",
+    "information": "Amazing value for what you're paying here. Just outside of Singapore's Chinatown, the Hawker Center offers dozens of small shop options, none of which can end badly for you. Variety of meat, soup, bevarage, and vegetarian options within a cafeteria-style setting. Of course, you have to try the original Tian Tian Hainanese Chicken Rice, but make sure you also stop by Zhen Zhen Porridge, Special Shanghai Tim-Sum Tong Xing Ju, & China Street Fritters. \n - Yelp"},
+
+  { "location": "Newton Food Centre",
+    "cost": "$15",
+    "file": "newton",
+    "hours": "12:00pm - 2:00am",
+    "information": "Setting foot into Newton Circus Food Centre within the first 10 minutes can be a little overwhelming... Not because there are so many food & beverage vendors to choose from, but because you are constantly being solicited by vendors left and right to try their food. It's good to take a quick walk around the food center and see all the food stalls before deciding what to order. You'll notice that they sell a lot of the same stuffs with slightly different variations. \n - Yelp"},
+
+  { "location": "Resorts World Sentosa",
+    "cost": "$50",
+    "file": "resortsworld",
+    "hours": "",
+    "information": ""},
+
+  { "location": "Tampines Round Market",
+    "cost": "$10",
+    "file": "roundmarket",
+    "hours": "6:30am - 3:00pm",
+    "information": "Usually crowded on weekends so it's hard to find seats so be prepared to wait for quite a while till someone is done with their meal. Very decent food here. Popular ones are the Sarawak Kolo mee, prawn noodles, Chai Chee porridge and tiong bahru fish ball and the economic bee hoon and kueh store in front. \n - Yelp"},
+
+  { "location": "Simpang Bedok",
+    "cost": "$15",
+    "file": "simpang",
+    "hours": "11:30am - 12:00am",
+    "information": "Waygu Beef, Salmon Sashimi, Foie Gras and freshly made Sourdough bread. If you think that these foods are located only in cafes and restaurants, think again because the stalls at Simpang Bedok Marketplace food centre will surprise you! Many Easties will agree that Bedok is a popular spot when it comes to finding food that is affordable yet of fantastic quality. The stalls in Simpang Bedok Marketplace easily meet the standard of café foods, and yet, many a times, the prices are much cheaper. \n - little day out"},
+
+  { "location": "Vivo City",
+    "cost": "$30",
+    "file": "vivocity",
+    "hours": "",
+    "information": ""},
+
+  { "location": "Singapore Zoo",
+    "cost": "$30",
+    "file": "zoo",
+    "hours": "",
+    "information": ""},
+
+  {"location": "Hong Lim Food Centre",
+   "cost": "$10",
+   "file": "honglim",
+    "hours": "7:00am - 9:00pm",
+    "information": "One mustn’t forget that the two storey food centre is a gathering of some of the best street food available in Singapore. Many stalls at Hong Lim continue to enjoy long queues. Some of which are Heng Kee Curry Chicken Bee Hoon Mee, High Street Tai Wah Pork Noodles, Ah Kow Mushroom Minced Pork Mee, Teo Heng Porridge Stall, Hwee Kee Kway Chap, Hong Xing Handmade Fishball, Hiong Kee Rice Dumplings, and The Old Stall Hokkien Prawn Mee. \n - danielfooddiary"}
+]

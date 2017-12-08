@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Local Foodie</string>
+    <string name="chkBoxLargeFontKey">checkBoxKey</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="buttontitle">Go to Map</string>
+    <string name="Bedok85">Bedok85</string>
+    <string name="BedokSimpang">BedokSimpang</string>
+    <string name="ChangiVillageHawkerCentre">ChangiVillageHawkerCentre</string>
+    <string name="ChinatownFoodStreet">ChinatownFoodStreet</string>
+    <string name="Chompchomp">Chompchomp</string>
+    <string name="HongLimFoodCentre">HongLimFoodCentre</string>
+    <string name="LauPaSat">LauPaSat</string>
+    <string name="MaxwellFoodCentre">MaxwellFoodCentre</string>
+    <string name="NewtonFoodCentre">NewtonFoodCentre</string>
+    <string name="TampinesRoundMarket">TampinesRoundMarket</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

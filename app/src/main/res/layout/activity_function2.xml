@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zwanzigdrei.localfoodie.Function2Activity"
+    android:orientation="vertical">
+
+
+    <!--<android.support.v7.widget.Toolbar-->
+        <!--android:id="@+id/toolbar"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:background="?attr/colorPrimary"-->
+        <!--android:minHeight="?attr/actionBarSize"-->
+        <!--android:theme="@style/ThemeOverlay.AppCompat.ActionBar"-->
+        <!--app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>-->
+
+    !-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/Bedok85"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Bedok85"
+                android:text="Bedok 85"
+                android:background="@drawable/mybutton"
+                android:textColor="#ffffff"
+                android:textStyle="bold"/>
+
+
+            <Button
+                android:id="@+id/BedokSimpang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="BedokSimpang"
+                android:text="Simpang Bedok"
+                android:background="@drawable/mybutton"
+                android:textColor="#ffffff"
+                android:textStyle="bold"/>
+
+            <!--<Button-->
+            <!--android:id="@+id/Buddhatoothrelictemple"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Buddha Tooth Relic" />-->
+
+            <Button
+                android:id="@+id/ChangiVillageHawkerCentre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="ChangiVillage"
+                android:text="Changi Village Hawker Centre"
+                android:background="@drawable/mybutton"
+                android:textColor="#ffffff"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/ChinatownFoodStreet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Chinatown"
+                android:text="Chinatown Food Street"
+                android:background="@drawable/mybutton"
+                android:textColor="#ffffff"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/Chompchomp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="ChompChomp"
+                android:text="Chomp Chomp Food Centre"
+                android:background="@drawable/mybutton"
+                android:textColor="#ffffff"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/HongLimFoodCentre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="HongLim"
+                android:text="Hong Lim Food Centre"
+                android:background="@drawable/mybutton"
+                android:textColor="#ffffff"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/LauPaSat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="LauPaSat"
+                android:text="Lau Pa Sat"
+                android:background="@drawable/mybutton"
+                android:textColor="#ffffff"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/MaxwellFoodCentre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Maxwell"
+                android:text="Maxwell Food Centre"
+                android:background="@drawable/mybutton"
+                android:textColor="#ffffff"
+                android:textStyle="bold"/>
+
+            <!--<Button-->
+            <!--android:id="@+id/MarinaBaySands"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Marina Bay Sands" />-->
+
+            <Button
+                android:id="@+id/NewtonFoodCentre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Newton"
+                android:text="Newton Food Centre"
+                android:background="@drawable/mybutton"
+                android:textColor="#ffffff"
+                android:textStyle="bold"/>
+
+            <!--<Button-->
+            <!--android:id="@+id/ResortWorldSentosa"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Resort World Sentosa" />-->
+
+            <!--<Button-->
+            <!--android:id="@+id/SingaporeFlyer"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Singapore Flyer" />-->
+
+            <Button
+                android:id="@+id/TampinesRoundMarket"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Tampines"
+                android:text="Tampines Round Market"
+                android:background="@drawable/mybutton"
+                android:textColor="#ffffff"
+                android:textStyle="bold"/>
+
+            <!--<Button-->
+            <!--android:id="@+id/VivoCity"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Vivo City" />-->
+
+            <!--<Button-->
+            <!--android:id="@+id/SingaporeZoo"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Singapore Zoo" />-->
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

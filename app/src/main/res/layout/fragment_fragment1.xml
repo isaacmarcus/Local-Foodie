@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.zwanzigdrei.localfoodie.Fragment1">
+
+    <CheckBox
+        android:id="@+id/Bedok85"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Bedok Blk 85" />
+    <CheckBox
+        android:id="@+id/BedokSimpang"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Bedok Simpang"/>
+    <CheckBox
+        android:id="@+id/ChangiVillageHawkerCentre"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Changi Village Hawker Centre"/>
+    <CheckBox
+        android:id="@+id/ChinatownFoodStreet"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Chinatown Food Street"/>
+    <CheckBox
+        android:id="@+id/Chompchomp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Chomp Chomp Food Centre"/>
+    <CheckBox
+        android:id="@+id/HongLimFoodCentre"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Hong Lim Food Centre"/>
+    <CheckBox
+        android:id="@+id/LauPaSat"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Lau Pa Sat"/>
+    <CheckBox
+        android:id="@+id/MaxwellFoodCentre"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Maxwell Food Centre"/>
+    <CheckBox
+        android:id="@+id/NewtonFoodCentre"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Newton Food Centre"/>
+    <CheckBox
+        android:id="@+id/TampinesRoundMarket"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Tampines Round Market &amp; Food Centre  "/>
+
+
+
+</LinearLayout>
